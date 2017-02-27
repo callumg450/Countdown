@@ -1,0 +1,9 @@
+c:\users\caza7\documents\visual studio 2015\Projects\Countdown\Countdown\bin\Debug\Countdown.exe.config
+c:\users\caza7\documents\visual studio 2015\Projects\Countdown\Countdown\bin\Debug\Countdown.exe
+c:\users\caza7\documents\visual studio 2015\Projects\Countdown\Countdown\bin\Debug\Countdown.pdb
+c:\users\caza7\documents\visual studio 2015\Projects\Countdown\Countdown\obj\Debug\Countdown.csprojResolveAssemblyReference.cache
+c:\users\caza7\documents\visual studio 2015\Projects\Countdown\Countdown\obj\Debug\Countdown.Countdown.resources
+c:\users\caza7\documents\visual studio 2015\Projects\Countdown\Countdown\obj\Debug\Countdown.Properties.Resources.resources
+c:\users\caza7\documents\visual studio 2015\Projects\Countdown\Countdown\obj\Debug\Countdown.csproj.GenerateResource.Cache
+c:\users\caza7\documents\visual studio 2015\Projects\Countdown\Countdown\obj\Debug\Countdown.exe
+c:\users\caza7\documents\visual studio 2015\Projects\Countdown\Countdown\obj\Debug\Countdown.pdb
